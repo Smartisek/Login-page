@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+button{
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  color: #CBC3E3;
+  background-color: #FFFFFF;
+}
+
+button:hover{
+  background-color:	#ffe5b4;
+  cursor: pointer;
+}
